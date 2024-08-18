@@ -1,0 +1,4 @@
+repository "Capstone@CVSU_Capstone_Project@cloud"
+  path "/"
+    br "/main"
+    co "/main"
